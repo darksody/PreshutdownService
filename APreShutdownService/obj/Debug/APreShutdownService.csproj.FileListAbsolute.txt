@@ -1,0 +1,9 @@
+C:\Users\cgt.HEIMDALSECURITY\source\repos\APreShutdownService\APreShutdownService\bin\Debug\APreShutdownService.exe.config
+C:\Users\cgt.HEIMDALSECURITY\source\repos\APreShutdownService\APreShutdownService\bin\Debug\APreShutdownService.exe
+C:\Users\cgt.HEIMDALSECURITY\source\repos\APreShutdownService\APreShutdownService\bin\Debug\APreShutdownService.pdb
+C:\Users\cgt.HEIMDALSECURITY\source\repos\APreShutdownService\APreShutdownService\obj\Debug\APreShutdownService.csprojAssemblyReference.cache
+C:\Users\cgt.HEIMDALSECURITY\source\repos\APreShutdownService\APreShutdownService\obj\Debug\APreShutdownService.ProjectInstaller.resources
+C:\Users\cgt.HEIMDALSECURITY\source\repos\APreShutdownService\APreShutdownService\obj\Debug\APreShutdownService.csproj.GenerateResource.cache
+C:\Users\cgt.HEIMDALSECURITY\source\repos\APreShutdownService\APreShutdownService\obj\Debug\APreShutdownService.csproj.CoreCompileInputs.cache
+C:\Users\cgt.HEIMDALSECURITY\source\repos\APreShutdownService\APreShutdownService\obj\Debug\APreShutdownService.exe
+C:\Users\cgt.HEIMDALSECURITY\source\repos\APreShutdownService\APreShutdownService\obj\Debug\APreShutdownService.pdb
